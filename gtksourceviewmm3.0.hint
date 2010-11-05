@@ -1,0 +1,3 @@
+category: Gnome
+sdesc: "C++ bindings for GtkSourceView3 (sources)"
+ldesc: "Official C++ bindings for the GtkSourceView library"
