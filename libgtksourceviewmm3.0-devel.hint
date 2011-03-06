@@ -1,5 +1,5 @@
 category: Gnome
-requires: libgtksourceviewmm3.0_0 libatkmm1.6-devel libglib2.0-devel libglibmm2.4-devel libgtk3.0-devel libgtkmm3.0-devel libgtksourceview3.0-devel libsigc2.0-devel libstdc++6-devel
+requires: libgtksourceviewmm3.0_0 libatkmm1.6-devel libglib2.0-devel libglibmm2.4-devel libgtk3-devel libgtkmm3.0-devel libgtksourceview3.0-devel libpangomm1.4-devel libsigc2.0-devel libstdc++6-devel
 external-source: gtksourceviewmm3.0
 sdesc: "C++ bindings for GtkSourceView3 (development)"
 ldesc: "Official C++ bindings for the GtkSourceView library"
