@@ -1,6 +1,0 @@
-inherit gtkmm
-
-PKG_NAMES="lib${PN}_0 lib${PN}-devel"
-libgtksourceviewmm3_0_0_CONTENTS="usr/bin/*-3.0-0.dll usr/share/doc/${PN}/"
-libgtksourceviewmm3_0_devel_CONTENTS="usr/include/ usr/lib/ usr/share/devhelp/
-                                      usr/share/doc/gtksourceviewmm-3.0/"

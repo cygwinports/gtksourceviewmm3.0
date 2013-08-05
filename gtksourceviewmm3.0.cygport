@@ -1,0 +1,14 @@
+inherit gtkmm
+
+NAME="gtksourceviewmm3.0"
+VERSION=3.2.0
+RELEASE=2
+CATEGORY="Libs"
+SUMMARY="C++ bindings for GtkSourceView3"
+DESCRIPTION="Official C++ bindings for the GtkSourceView library"
+
+PKG_NAMES="lib${NAME}_0 lib${NAME}-devel lib${NAME}-doc"
+libgtksourceviewmm3_0_0_CONTENTS="usr/bin/*-3.0-0.dll usr/share/doc/${NAME}/"
+libgtksourceviewmm3_0_devel_CONTENTS="usr/include/ usr/lib/"
+libgtksourceviewmm3_0_doc_CATEGORY="Doc"
+libgtksourceviewmm3_0_doc_CONTENTS="usr/share/devhelp/ usr/share/doc/gtksourceviewmm-3.0/"

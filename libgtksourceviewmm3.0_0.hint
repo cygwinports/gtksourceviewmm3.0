@@ -1,5 +1,0 @@
-category: Gnome
-requires: libatkmm1.6_1 libgcc1 libglib2.0_0 libglibmm2.4_1 libgtk3_0 libgtkmm3.0_1 libgtksourceview3.0_0 libpangomm1.4_1 libsigc2.0_0 libstdc++6
-external-source: gtksourceviewmm3.0
-sdesc: "C++ bindings for GtkSourceView3 (runtime)"
-ldesc: "Official C++ bindings for the GtkSourceView library"
