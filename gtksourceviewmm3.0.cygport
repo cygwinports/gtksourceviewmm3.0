@@ -1,8 +1,8 @@
 inherit gtkmm
 
 NAME="gtksourceviewmm3.0"
-VERSION=3.2.0
-RELEASE=2
+VERSION=3.18.0
+RELEASE=1
 CATEGORY="Libs"
 SUMMARY="C++ bindings for GtkSourceView3"
 DESCRIPTION="Official C++ bindings for the GtkSourceView library"
